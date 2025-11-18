@@ -8,4 +8,7 @@ Create the game with set outcomes.
 Basic string manipulation & numerical manipulation.
 
 ## Practical 3:
-Basic DateTime manipulation
+Basic DateTime manipulation.
+
+## Practical 4:
+Basic string and int manipulation.
