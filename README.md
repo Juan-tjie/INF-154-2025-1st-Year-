@@ -12,3 +12,6 @@ Basic DateTime manipulation.
 
 ## Practical 4:
 Basic string and int manipulation.
+
+## Practical 5:
+Roll the dice game.
