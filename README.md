@@ -15,3 +15,6 @@ Basic string and int manipulation.
 
 ## Practical 5:
 Roll the dice game.
+
+## Practical 6:
+String sorting
