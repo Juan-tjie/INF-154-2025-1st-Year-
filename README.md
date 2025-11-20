@@ -18,3 +18,6 @@ Roll the dice game.
 
 ## Practical 6:
 String sorting
+
+## Practical 7:
+Timer manipulation & for loops
